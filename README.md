@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenierTolentin
-- 👀 I’m interested in programming
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ren.tolentin.26@gmail.com
